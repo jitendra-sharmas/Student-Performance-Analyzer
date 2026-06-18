@@ -23,3 +23,7 @@ This project analyzes student performance data using Python and Pandas.
 - Physics
 - Chemistry
 - Result
+
+ ## Author 
+https://github.com/jitendra-sharmas
+ 
